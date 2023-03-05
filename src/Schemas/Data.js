@@ -36,22 +36,16 @@ export const Data = {
     label: "SOCIAL",
     social: [
       {
-        label: "Maaato",
-        name: "linkedin",
-        url: "https://www.linkedin.com/in/matias-alfonso-lagos-gajardo",
-        className: "bxl-linkedin-square",
-      },
-      {
-        label: "Maaato",
+        label: "akurtaliqi",
         name: "github",
-        url: "https://github.com/Maaato",
+        url: "https://github.com/akurtaliqi",
         className: "bxl-github",
       },
       {
-        label: "Maaato",
-        name: "twiiter",
-        url: "https://twitter.com/I_Maaato",
-        className: "bxl-twitter",
+        label: "a-kurtaliqi",
+        name: "linkedin",
+        url: "https://www.linkedin.com/in/a-kurtaliqi/",
+        className: "bxl-linkedin-square",
       },
     ],
   },
