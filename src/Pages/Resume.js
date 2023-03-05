@@ -40,6 +40,7 @@ export const Resume = () => {
           </div>
           <div className="resume__right">
             <Works {...experience} />
+            <Proyects {...experience} />
             <Academic {...experience} />
           </div>
         </div>

@@ -52,9 +52,41 @@ export const Data = {
   experience: {
     works: [
       {
-        title: "FULL-STACK DEVELOPER",
-        period: "Sept. 2019 - On going",
+        title: "Software technical architect",
+        period: "Nov. 2021 - ongoing",
         company: "Société Générale",
+        description: [
+          "First line here",
+        ],
+      },
+      {
+        title: "Fullstack developer",
+        period: "Sept. 2019 - july 2021",
+        company: "Société Générale",
+        description: [
+          "First line here",
+        ],
+      },
+      {
+        title: "Java developer",
+        period: "Sept. 2018 - Sept. 2019",
+        company: "CGG",
+        description: [
+          "First line here",
+        ],
+      },
+      {
+        title: "Frontend developer",
+        period: "Feb. 2015 - March 2015",
+        company: "Valsys Sàrl - Môtiers, CH",
+        description: [
+          "First line here",
+        ],
+      },
+      {
+        title: "Web developer",
+        period: "Sept. 2014 - Jan. 2015",
+        company: "Sadamel - Neuchâtel, CH",
         description: [
           "First line here",
         ],
@@ -62,16 +94,24 @@ export const Data = {
     ],
     academic: [
       {
-        career: "Master of Software Architecture",
-        date: "2019",
-        institution: "ESGI",
+        career: "Computer engineering specialist - Branch Software architecture",
+        date: "Oct. 2019 - Oct. 2021",
+        institution: "ESGI - École Supérieure de Génie Informatique",
       },
     ],
     proyects: [
       {
-        name: "Personal project 1",
-        company: "Company name",
-        period: "Nov. 2019 - Ene. 2020",
+        name: "Green Repack",
+        company: "ESGI",
+        period: "July 2021 - Oct. 2021",
+        description: [
+          "Description",
+        ],
+      },
+      {
+        name: "goyave.dev",
+        company: "goyave",
+        period: "Dec. 2020 - July 2021",
         description: [
           "Description",
         ],
